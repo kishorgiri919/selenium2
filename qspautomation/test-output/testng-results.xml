@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Functional test case 1]]>
+    </line>
+    <line>
+      <![CDATA[Functional test case 2]]>
+    </line>
+    <line>
+      <![CDATA[Functional test case 3]]>
+    </line>
+    <line>
+      <![CDATA[Functional test case 4]]>
+    </line>
+    <line>
+      <![CDATA[Functional test case 5]]>
+    </line>
+    <line>
+      <![CDATA[Functional test case 6]]>
+    </line>
+    <line>
+      <![CDATA[Integration test case 1]]>
+    </line>
+    <line>
+      <![CDATA[Integration test case 2]]>
+    </line>
+    <line>
+      <![CDATA[Integration test case 3]]>
+    </line>
+    <line>
+      <![CDATA[Integration test case 4]]>
+    </line>
+    <line>
+      <![CDATA[Integration test case 5]]>
+    </line>
+    <line>
+      <![CDATA[Integration test case 6]]>
+    </line>
+    <line>
+      <![CDATA[Smoke test case 1]]>
+    </line>
+    <line>
+      <![CDATA[Smoke test case 2]]>
+    </line>
+    <line>
+      <![CDATA[Smoke test case 3]]>
+    </line>
+    <line>
+      <![CDATA[Smoke test case 4]]>
+    </line>
+    <line>
+      <![CDATA[Smoke test case 5]]>
+    </line>
+    <line>
+      <![CDATA[Smoke test case 6]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-26T19:41:18 IST" name="Default suite" finished-at="2022-08-26T19:41:18 IST" duration-ms="252">
+    <groups>
+      <group name="INTEGRATION">
+        <method signature="Flag6Group.it1()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="it1" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.it2()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="it2" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.it3()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="it3" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.it4()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="it4" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.it5()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="it5" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.it6()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="it6" class="testNGPack.Flag6Group"/>
+      </group> <!-- INTEGRATION -->
+      <group name="FUNCTIONAL">
+        <method signature="Flag6Group.ft1()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="ft1" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.ft2()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="ft2" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.ft3()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="ft3" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.ft4()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="ft4" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.ft5()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="ft5" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.ft6()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="ft6" class="testNGPack.Flag6Group"/>
+      </group> <!-- FUNCTIONAL -->
+      <group name="SMOKE">
+        <method signature="Flag6Group.st1()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="st1" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.st2()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="st2" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.st3()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="st3" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.st4()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="st4" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.st5()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="st5" class="testNGPack.Flag6Group"/>
+        <method signature="Flag6Group.st6()[pri:0, instance:testNGPack.Flag6Group@7690781]" name="st6" class="testNGPack.Flag6Group"/>
+      </group> <!-- SMOKE -->
+    </groups>
+    <test started-at="2022-08-26T19:41:18 IST" name="Default test" finished-at="2022-08-26T19:41:18 IST" duration-ms="252">
+      <class name="testNGPack.Flag6Group">
+        <test-method signature="ft1()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="ft1" finished-at="2022-08-26T19:41:18 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Functional test case 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft1 -->
+        <test-method signature="ft2()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="ft2" finished-at="2022-08-26T19:41:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Functional test case 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft2 -->
+        <test-method signature="ft3()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="ft3" finished-at="2022-08-26T19:41:18 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Functional test case 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft3 -->
+        <test-method signature="ft4()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="ft4" finished-at="2022-08-26T19:41:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Functional test case 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft4 -->
+        <test-method signature="ft5()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="ft5" finished-at="2022-08-26T19:41:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Functional test case 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft5 -->
+        <test-method signature="ft6()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="ft6" finished-at="2022-08-26T19:41:18 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Functional test case 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ft6 -->
+        <test-method signature="it1()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="it1" finished-at="2022-08-26T19:41:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Integration test case 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it1 -->
+        <test-method signature="it2()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="it2" finished-at="2022-08-26T19:41:18 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Integration test case 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it2 -->
+        <test-method signature="it3()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="it3" finished-at="2022-08-26T19:41:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Integration test case 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it3 -->
+        <test-method signature="it4()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="it4" finished-at="2022-08-26T19:41:18 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Integration test case 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it4 -->
+        <test-method signature="it5()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="it5" finished-at="2022-08-26T19:41:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Integration test case 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it5 -->
+        <test-method signature="it6()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="it6" finished-at="2022-08-26T19:41:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Integration test case 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- it6 -->
+        <test-method signature="st1()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="st1" finished-at="2022-08-26T19:41:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Smoke test case 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st1 -->
+        <test-method signature="st2()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="st2" finished-at="2022-08-26T19:41:18 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Smoke test case 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st2 -->
+        <test-method signature="st3()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="st3" finished-at="2022-08-26T19:41:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Smoke test case 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st3 -->
+        <test-method signature="st4()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="st4" finished-at="2022-08-26T19:41:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Smoke test case 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st4 -->
+        <test-method signature="st5()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="st5" finished-at="2022-08-26T19:41:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Smoke test case 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st5 -->
+        <test-method signature="st6()[pri:0, instance:testNGPack.Flag6Group@7690781]" started-at="2022-08-26T19:41:18 IST" name="st6" finished-at="2022-08-26T19:41:18 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Smoke test case 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- st6 -->
+      </class> <!-- testNGPack.Flag6Group -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
